@@ -1,8 +1,5 @@
 {
   "admin": {
-  
-     `username` as plain text
-    `password` as a LOWERCASE MD5 hash
 
     "username": "admin",
     "password": "811e36f413f0ae01d08e0f4c342f3bd1",
